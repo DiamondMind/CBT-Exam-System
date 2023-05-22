@@ -1,0 +1,26 @@
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT Examination System.csproj.AssemblyReference.cache
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT_Examination_System.HomePage.resources
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT_Examination_System.Properties.Resources.resources
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT Examination System.csproj.GenerateResource.cache
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT Examination System.csproj.CoreCompileInputs.cache
+C:\Users\rabiu\Professional\CBT Examination System\bin\Debug\CBT Examination System.exe.config
+C:\Users\rabiu\Professional\CBT Examination System\bin\Debug\CBT Examination System.exe
+C:\Users\rabiu\Professional\CBT Examination System\bin\Debug\CBT Examination System.pdb
+C:\Users\rabiu\Professional\CBT Examination System\bin\Debug\Guna.UI2.dll
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT Examination System.csproj.CopyComplete
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT Examination System.exe
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT Examination System.pdb
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT_Examination_System.LoginPage.resources
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT_Examination_System.LecturerDashboard.resources
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT_Examination_System.Lecturer_UC.UC_AddNewCourse.resources
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT_Examination_System.UC_ViewCourses.resources
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT_Examination_System.Lecturer_UC.UC_SetQuestions.resources
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT_Examination_System.Lecturer_UC.UC_ViewQuestions.resources
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT_Examination_System.RegistrationPage.resources
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT_Examination_System.StudentDashboard.resources
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT_Examination_System.Student_UC.ViewProfile_UC.resources
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT_Examination_System.Student_UC.ViewCourses_UC.resources
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT_Examination_System.Student_UC.uC_BeginExam.resources
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT_Examination_System.Student_UC.ExamPage_UC.resources
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT_Examination_System.Student_UC.uC_ViewResults.resources
+C:\Users\rabiu\Professional\CBT Examination System\obj\Debug\CBT_Examination_System.Lecturer_UC.uC_ViewStudentsResults.resources
