@@ -82,7 +82,7 @@ Contributions are welcome!
 
 ## License
 
-This project is licensed under the [MIT License(https://drive.google.com/file/d/1_gs3kI6Yr2nTsh0wDNgrRhXITL6r51si/view?usp=drive_link)].
+This project is licensed under the [MIT License](https://drive.google.com/file/d/1_gs3kI6Yr2nTsh0wDNgrRhXITL6r51si/view?usp=drive_link)].
 
 ## Contact
 
